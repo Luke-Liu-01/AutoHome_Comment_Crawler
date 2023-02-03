@@ -1,0 +1,4 @@
+openpyxl==3.0.5
+jieba==0.42.1
+selenium==3.141.0
+beautifulsoup4==4.9.3
